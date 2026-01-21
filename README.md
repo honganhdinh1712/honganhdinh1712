@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Howl,
 
-💻 Software Engineer  
-📱 Web & Mobile Application Developer  
-🚀 Focused on building scalable, maintainable, and user-centric products  
+Software Engineer  
+Web & Mobile Application Developer  
+Focused on building scalable, maintainable, and user-centric products  
 
 ---
 
-### 👨‍💻 About Me
-- 💼 Currently working as a **Software Engineer**
-- 📱 Strong experience in **React Native** for cross-platform mobile applications
-- 🌐 Building modern web applications with **React.js** and **Next.js**
-- ⚙️ Developing scalable backend services using **Node.js**
-- 🤝 Open to collaborating on impactful and real-world projects
-- ⚡ Fun fact: I enjoy clean code and well-structured architectures
+### About Me
+- Currently working as a **Software Engineer**
+- Strong experience in **React Native** for cross-platform mobile applications
+- Building modern web applications with **React.js** and **Next.js**
+- Developing scalable backend services using **Node.js**
+- Open to collaborating on impactful and real-world projects
+- Fun fact: I enjoy clean code and well-structured architectures
 
 ---
 
@@ -44,10 +44,10 @@
 - VS Code, Postman
 
 
-### 📫 Contact
-- 📧 Email: honganhdinh1712@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/dinh-hong-anh-81739930a/
+### Contact
+- Email: honganhdinh1712@gmail.com  
+- LinkedIn: https://linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/dinh-hong-anh-81739930a/
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+Thanks for visiting my GitHub profile!
