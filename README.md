@@ -43,14 +43,6 @@
 - Docker (basic)
 - VS Code, Postman
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honganhdinh1712&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honganhdinh1712&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Contact
 - 📧 Email: honganhdinh1712@gmail.com  
