@@ -16,7 +16,7 @@ Focused on building scalable, maintainable, and user-centric products
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Mobile Development**
 - React Native
