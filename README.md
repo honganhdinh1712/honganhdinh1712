@@ -12,7 +12,6 @@ Focused on building scalable, maintainable, and user-centric products
 - Building modern web applications with **React.js** and **Next.js**
 - Developing scalable backend services using **Node.js**
 - Open to collaborating on impactful and real-world projects
-- Fun fact: I enjoy clean code and well-structured architectures
 
 ---
 
@@ -31,6 +30,8 @@ Focused on building scalable, maintainable, and user-centric products
 **Backend**
 - Node.js
 - NestJS
+- Java Spring Boot.
+- Python Flask.
 - RESTful APIs
 
 **Database**
