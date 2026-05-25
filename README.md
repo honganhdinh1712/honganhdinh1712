@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Howl,
+## Hi there 👋 I'm Hong Anh Dinh,
 
 Software Engineer  
 Web & Mobile Application Developer  
@@ -18,6 +18,7 @@ Focused on building scalable, maintainable, and user-centric products
 ### Tech Stack
 
 **Mobile Development**
+- Flutter 
 - React Native
 - Expo
 
