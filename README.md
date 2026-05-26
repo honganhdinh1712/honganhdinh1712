@@ -45,6 +45,10 @@ Focused on building scalable, maintainable, and user-centric products
 - Docker (basic)
 - VS Code, Postman
 
+**Full-time Skills**
+- Hái cà phê, cào bồn, bón phân.
+- Trồng cây ăn trái, phun thuốc trừ sâu.
+
 
 ### Contact
 - Email: honganhdinh1712@gmail.com  
