@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Hong Anh Dinh,
+### Mình đã nghỉ Dev
 
 Software Engineer  
 Web & Mobile Application Developer  
