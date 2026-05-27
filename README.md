@@ -47,7 +47,7 @@ Focused on building scalable, maintainable, and user-centric products
 
 ### Contact
 - Email: honganhdinh1712@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/dinh-hong-anh-81739930a
+- LinkedIn: https://www.linkedin.com/in/hong-anh-dinh-b54bb9402
 
 ---
 
