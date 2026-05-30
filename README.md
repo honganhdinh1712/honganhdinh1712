@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hong Anh Dinh,
+## Hi there. I'm Hong Anh Dinh,
 
 Software Engineer  
 Web & Mobile Application Developer  
