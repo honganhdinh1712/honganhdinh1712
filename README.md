@@ -42,7 +42,8 @@ Focused on building scalable, maintainable, and user-centric products
 
 **DevOps & Tools**
 - Git, GitHub
-- Docker (basic)
+- CI/CD
+- Docker
 - VS Code, Postman
 
 ### Contact
